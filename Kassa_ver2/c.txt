@@ -1,0 +1,11 @@
+01; Lager;
+02; Ale;
+03; Belgare;
+04; Porter / Stout;
+05; Weissbier & Witbier;
+06; Lambic;
+07; Random annat;
+08; Julöl;
+09; Pjäser;
+10; Dugges;
+11; Blask;
